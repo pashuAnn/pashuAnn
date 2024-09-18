@@ -13,7 +13,7 @@ A passionate frontend developer expanding my skills towards full-stack developme
 
 ## Contacts
 ![Gmail](./Images/gmail.svg) [hryhorashpasha@gmail.com](mailto:hryhorashpasha@gmail.com)
-[![LinkedIn](./Images/linkedin.svg)](www.linkedin.com/in/pavlo-hryhorash-frontend-developer)
+[![LinkedIn](./Images/linkedin.svg)](https://www.linkedin.com/in/pavlo-hryhorash-frontend-developer/)
 [![Instagram](./Images/instagram.svg)](https://www.instagram.com/hryhorash_pasha?igsh=MzBwbzNzaHprcG50&utm_source=qr)
 [![Facebook](./Images/facebook.svg)](https://www.facebook.com/pasha.grigorash/)
 
